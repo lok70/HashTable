@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\kiiittto\Desktop\ConsoleApplication1\ConsoleApplication1\main.cpp(72,21): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+C:\Users\kiiittto\Desktop\ConsoleApplication1\ConsoleApplication1\main.cpp(81,21): warning C4834: удаление возвращаемого значения функции с атрибутом [[nodiscard]]
+  ConsoleApplication1.vcxproj -> C:\Users\kiiittto\Desktop\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
